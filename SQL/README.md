@@ -6,8 +6,8 @@ The scripts are designed to run against the **NATUS Neometrics LIMS (Oracle SQL 
 ---
 
 ## 📂 Contents
-- `cutoff_analysis_query.sql`  
-  Example query for retrieving analyte data by condition. This script joins disorder, result, and lab accession tables to extract data used for cutoff analysis and quality monitoring.
+- `AZ_sql_cutoff_analysis.sql`  
+  Template query for retrieving analyte data by condition. This script joins disorder, result, and lab accession tables to extract data used for cutoff analysis and quality monitoring.
 
 ---
 
